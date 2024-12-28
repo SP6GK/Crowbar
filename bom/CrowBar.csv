@@ -1,0 +1,13 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Note
+"C1,C2,C4",100n,~,Capacitor_SMD:C_0805_2012Metric,3,,https://www.tme.eu/pl/en/details/cl21b104kcfsfne/mlcc-smd-capacitors/samsung/
+C3,1u,~,Capacitor_SMD:C_0805_2012Metric,1,,https://www.tme.eu/pl/en/details/08051c105k4t2a/mlcc-smd-capacitors/kyocera-avx/
+C5,10n,~,Capacitor_SMD:C_0805_2012Metric,1,,https://www.tme.eu/pl/en/details/c0805c103k1rac/mlcc-smd-capacitors/kemet/c0805c103k1ractu/
+D1,15V,https://www.tme.eu/Document/65a69b9cbbd99051440c14d1a6fe3b92/mm1z4689.pdf,Diode_SMD:D_SOD-123F,1,,https://www.tme.eu/pl/en/details/mm1z4702-dio/smd-zener-diodes/diotec-semiconductor/mm1z4702/
+D2,BT155W,https://www.tme.eu/Document/c7049c1e04abe08c3b6b28cdbf67d72e/BT155W-1200T-AQ.pdf,Package_TO_SOT_THT:TO-247-3_Horizontal_TabDown,1,,https://www.tme.eu/pl/en/details/bt155w-1200t-aq/smd-tht-thyristors/ween-semiconductors/
+D3,1.5SMCJ15CA,https://diotec.com/request/datasheet/15smcj65.pdf,Diode_SMD:D_SMC,1,,https://www.tme.eu/pl/en/details/1.5smcj15ca-dio/bidirectional-tvs-smd-diodes/diotec-semiconductor/1-5smcj15ca/
+F1,25 A Fast,~https://www.tme.eu/Document/a5a5f9439f5247c7e6a4b49e4e756560/LittelFuse_Seria_0312.pdf,Fuse_custom:8040.0001SCHURTER,1,,https://www.tme.eu/pl/en/details/0312025.mxp/fuses-6-3x32mm-fast/littelfuse/
+"J1,J2,J3,J4",AMT0450001DB0000G,~https://www.tme.eu/Document/e5174bcdf1174710a2c2984d31ca4cbf/AMT45001DB.pdf,ScrewTerminal_custom:AMT0450001DB0000G,4,,https://www.tme.eu/pl/en/details/amt0450001db0000g/pcb-terminal-blocks/amphenol-anytek/
+Q1,BCX56,https://assets.nexperia.com/documents/data-sheet/BCX56_SER.pdf,Package_TO_SOT_SMD:SOT-89-3,1,,https://www.tme.eu/pl/en/details/bcx56-16.135/npn-smd-transistors/nexperia/bcx56-16-135/
+R1,1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,
+"R2,R4",4k7,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,,
+R3,10k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,
